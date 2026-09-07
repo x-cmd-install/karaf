@@ -5,7 +5,7 @@ about:
   head: ed4d306
   archived: false
   latestVersion: "karaf-4.4.11"
-  collectedAt: 2026-09-07T04:30:56Z
+  collectedAt: 2026-09-07T19:59:17Z
 timeline:
   created: 2010-08-12
   lastCommit: 2026-09-06
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 711
   watcher: 70
-  fork: 662
+  fork: 663
   release: 3
   contributor: 165
   pullRequest: 2761
@@ -87,7 +87,7 @@ total:
   commit: 10094
 ---
 path: /home/runner/.x-repo/github.com/apache/karaf
-collectedAt: 2026-09-07T04:31:16Z
+collectedAt: 2026-09-07T19:59:32Z
 loc:
   Java:
     code: 126092
@@ -289,7 +289,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:31:21+00:00
+  collectedAt: 2026-09-07T19:59:37+00:00
   platform:
     darwin/arm64:
       name:  null
