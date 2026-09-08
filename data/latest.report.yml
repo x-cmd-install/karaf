@@ -5,7 +5,7 @@ about:
   head: ed4d306
   archived: false
   latestVersion: "karaf-4.4.11"
-  collectedAt: 2026-09-08T01:39:17Z
+  collectedAt: 2026-09-08T04:35:01Z
 timeline:
   created: 2010-08-12
   lastCommit: 2026-09-06
@@ -87,7 +87,7 @@ total:
   commit: 10094
 ---
 path: /home/runner/.x-repo/github.com/apache/karaf
-collectedAt: 2026-09-08T01:39:31Z
+collectedAt: 2026-09-08T04:35:13Z
 loc:
   Java:
     code: 126092
