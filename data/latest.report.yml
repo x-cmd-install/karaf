@@ -7,7 +7,7 @@ about:
   latestVersion: "karaf-4.4.11"
   latestRelease: "karaf-4.4.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:28:51Z
+  collectedAt: 2026-09-10T22:31:35Z
 timeline:
   created: 2010-08-12
   lastCommit: 2026-09-10
@@ -91,7 +91,7 @@ total:
   commit: 10108
 ---
 path: /home/runner/.x-repo/github.com/apache/karaf
-collectedAt: 2026-09-10T21:29:07Z
+collectedAt: 2026-09-10T22:31:53Z
 loc:
   Java:
     code: 127681
