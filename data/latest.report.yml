@@ -7,7 +7,7 @@ about:
   latestVersion: "karaf-4.4.11"
   latestRelease: "karaf-4.4.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:03:49Z
+  collectedAt: 2026-09-10T21:28:51Z
 timeline:
   created: 2010-08-12
   lastCommit: 2026-09-10
@@ -20,7 +20,7 @@ popularity:
   fork: 664
   release: 3
   contributor: 166
-  pullRequest: 2793
+  pullRequest: 2795
   issue: 80
 language:
   Java: 7256030
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 52
-    openPR: 23
+    openPR: 25
     closedIssue: 1
     openIssue: 1
     commit: 40
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-12
     release: 0
     mergedPR: 75
-    openPR: 23
+    openPR: 25
     closedIssue: 1
     openIssue: 3
     commit: 44
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-12
     release: 0
     mergedPR: 108
-    openPR: 24
+    openPR: 26
     closedIssue: 2
     openIssue: 5
     commit: 66
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-14
     release: 1
     mergedPR: 330
-    openPR: 29
+    openPR: 31
     closedIssue: 12
     openIssue: 9
     commit: 195
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-15
     release: 3
     mergedPR: 578
-    openPR: 34
+    openPR: 36
     closedIssue: 57
     openIssue: 19
     commit: 352
@@ -78,20 +78,20 @@ recent:
     since: 2024-09-20
     release: 3
     mergedPR: 688
-    openPR: 37
+    openPR: 39
     closedIssue: 61
     openIssue: 19
     commit: 548
 total:
   release: 3
   mergedPR: 2160
-  openPR: 38
+  openPR: 40
   closedIssue: 61
   openIssue: 19
   commit: 10108
 ---
 path: /home/runner/.x-repo/github.com/apache/karaf
-collectedAt: 2026-09-10T16:04:01Z
+collectedAt: 2026-09-10T21:29:07Z
 loc:
   Java:
     code: 127681
