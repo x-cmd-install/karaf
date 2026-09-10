@@ -12,33 +12,6 @@ Apache Karaf, the enterprise modulith runtime
 x install karaf
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/apache/karaf>
-- **官网**: <https://karaf.apache.org>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `karaf-4.4.11` (2026-04-27)
-- **最近提交**: 2026-09-10
-
-## 流行度
-
-- **Star**: 712 · **Fork**: 664 · **开放 issue**: 80 · **贡献者**: 166
-
-## 累计统计
-
-- **发布数**: 3 · **已合并 PR**: 2160 · **开放 PR**: 38 · **已关闭 issue**: 61 · **开放 issue**: 19 · **提交数**: 10108
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 52 | 23 | 1 | 1 | 40 |
-| 90d | 2026-06-12 | 0 | 108 | 24 | 2 | 5 | 66 |
-| 360d | 2025-09-15 | 3 | 578 | 34 | 57 | 19 | 352 |
-
 ## 代码规模
 
 合计: **172,527** 行代码（覆盖前 5 种语言、共 **2167** 个文件）。
@@ -61,6 +34,40 @@ x install karaf
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
+## 源代码
+
+- **上游仓库**: <https://github.com/apache/karaf>
+- **官网**: <https://karaf.apache.org>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `karaf-4.4.11` (2026-04-27)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 712 · **Fork**: 664 · **开放 issue**: 80 · **贡献者**: 166
+
+## 累计统计
+
+- **发布数**: 3 · **已合并 PR**: 2160 · **开放 PR**: 40 · **已关闭 issue**: 61 · **开放 issue**: 19 · **提交数**: 10108
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 52 | 25 | 1 | 1 | 40 |
+| last60d | 2026-07-12 | 0 | 75 | 25 | 1 | 3 | 44 |
+| 90d | 2026-06-12 | 0 | 108 | 26 | 2 | 5 | 66 |
+| last180d | 2026-03-14 | 1 | 330 | 31 | 12 | 9 | 195 |
+| 360d | 2025-09-15 | 3 | 578 | 36 | 57 | 19 | 352 |
+| last720d | 2024-09-20 | 3 | 688 | 39 | 61 | 19 | 548 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/karaf) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
 ## 改进这些数据
 
 karaf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `karaf` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -70,4 +77,4 @@ karaf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:04:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:29:15Z._
