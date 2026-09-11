@@ -2,12 +2,12 @@ about:
   description: "Apache Karaf, the enterprise modulith runtime"
   license: Apache-2.0
   homepage: https://karaf.apache.org
-  head: fdd7b11
+  head: 2bf5992
   archived: false
   latestVersion: "karaf-4.4.11"
   latestRelease: "karaf-4.4.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:33:41Z
+  collectedAt: 2026-09-11T20:26:48Z
 timeline:
   created: 2010-08-12
   lastCommit: 2026-09-11
@@ -19,11 +19,11 @@ popularity:
   watcher: 70
   fork: 664
   release: 3
-  contributor: 166
-  pullRequest: 2795
+  contributor: 167
+  pullRequest: 2798
   issue: 80
 language:
-  Java: 7256030
+  Java: 7267760
   Shell: 95292
   Batchfile: 53293
   JavaScript: 28056
@@ -32,81 +32,81 @@ language:
   VBScript: 4147
   Dockerfile: 2868
   Groovy: 868
-totalBytes: 7469619
+totalBytes: 7481349
 recent:
   last30d:
     since: 2026-08-12
     release: 0
-    mergedPR: 54
-    openPR: 22
+    mergedPR: 60
+    openPR: 19
     closedIssue: 1
     openIssue: 1
-    commit: 41
+    commit: 46
   last60d:
     since: 2026-07-13
     release: 0
-    mergedPR: 74
-    openPR: 22
+    mergedPR: 80
+    openPR: 19
     closedIssue: 1
     openIssue: 3
-    commit: 45
+    commit: 50
   last90d:
     since: 2026-06-13
     release: 0
-    mergedPR: 109
-    openPR: 23
+    mergedPR: 115
+    openPR: 20
     closedIssue: 2
     openIssue: 5
-    commit: 67
+    commit: 72
   last180d:
     since: 2026-03-15
     release: 1
-    mergedPR: 309
-    openPR: 28
+    mergedPR: 316
+    openPR: 24
     closedIssue: 12
     openIssue: 9
-    commit: 196
+    commit: 201
   last360d:
     since: 2025-09-16
     release: 3
-    mergedPR: 580
-    openPR: 33
+    mergedPR: 587
+    openPR: 29
     closedIssue: 57
     openIssue: 19
-    commit: 353
+    commit: 358
   last720d:
     since: 2024-09-21
     release: 3
-    mergedPR: 690
-    openPR: 36
+    mergedPR: 697
+    openPR: 32
     closedIssue: 61
     openIssue: 19
-    commit: 549
+    commit: 553
 total:
   release: 3
-  mergedPR: 2162
-  openPR: 37
+  mergedPR: 2169
+  openPR: 33
   closedIssue: 61
   openIssue: 19
-  commit: 10109
+  commit: 10113
 ---
 path: /home/runner/.x-repo/github.com/apache/karaf
-collectedAt: 2026-09-11T04:33:54Z
+collectedAt: 2026-09-11T20:27:02Z
 loc:
   Java:
-    code: 127681
-    comments: 41118
-    blanks: 23756
+    code: 127857
+    comments: 41159
+    blanks: 23783
     files: 1582
   Xml:
-    code: 31821
+    code: 31838
     comments: 8891
     blanks: 3286
     files: 485
   AsciiDoc:
-    code: 10729
+    code: 10739
     comments: 602
-    blanks: 3682
+    blanks: 3684
     files: 46
   JavaScript:
     code: 586
@@ -114,8 +114,8 @@ loc:
     blanks: 73
     files: 4
   ForgeConfig:
-    code: 446
-    comments: 1579
+    code: 450
+    comments: 1586
     blanks: 173
     files: 50
   XSL:
@@ -189,9 +189,9 @@ loc:
     blanks: 13
     files: 12
 total:
-  code: 172540
-  comments: 55625
-  blanks: 32189
+  code: 172747
+  comments: 55673
+  blanks: 32218
   files: 2251
 ---
 date: "2026-09-07"
