@@ -14,11 +14,11 @@ x install karaf
 
 ## Code insight
 
-Total: **173,694** lines of code across **2175** files in the top 5 languages.
+Total: **173,729** lines of code across **2175** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 128,643 | 41,410 | 23,945 | 1589 |
+| Java | 128,678 | 41,410 | 23,945 | 1589 |
 | Xml | 31,981 | 8,891 | 3,288 | 485 |
 | AsciiDoc | 10,750 | 602 | 3,686 | 46 |
 | JavaScript | 586 | 73 | 73 | 4 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `karaf-4.4.11` (2026-04-27)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 2203 · **Open PRs**: 23 · **Closed issues**: 67 · **Open issues**: 13 · **Commits**: 10129
+- **Releases**: 3 · **Merged PRs**: 2207 · **Open PRs**: 22 · **Closed issues**: 67 · **Open issues**: 13 · **Commits**: 10131
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 88 | 10 | 1 | 0 | 59 |
-| last60d | 2026-07-19 | 0 | 112 | 10 | 3 | 0 | 66 |
-| 90d | 2026-06-19 | 0 | 144 | 10 | 6 | 0 | 90 |
-| last180d | 2026-03-21 | 1 | 325 | 14 | 18 | 2 | 206 |
-| 360d | 2025-09-22 | 3 | 576 | 19 | 63 | 13 | 349 |
-| last720d | 2024-09-27 | 3 | 731 | 22 | 67 | 13 | 566 |
+| 30d | 2026-08-19 | 0 | 90 | 9 | 0 | 0 | 62 |
+| last60d | 2026-07-20 | 0 | 116 | 9 | 3 | 0 | 69 |
+| 90d | 2026-06-20 | 0 | 148 | 9 | 6 | 0 | 93 |
+| last180d | 2026-03-22 | 1 | 327 | 13 | 16 | 2 | 209 |
+| 360d | 2025-09-23 | 3 | 580 | 18 | 63 | 13 | 352 |
+| last720d | 2024-09-28 | 3 | 735 | 21 | 67 | 13 | 568 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:03:24Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:39:25Z._
