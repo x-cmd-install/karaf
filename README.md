@@ -4,7 +4,7 @@
 
 Apache Karaf, the enterprise modulith runtime
 
-![karaf](https://repo.x-cmd.io/karaf.svg)
+[![x-cmd/install — karaf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/karaf.svg)](https://x-cmd.com/install/karaf)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `karaf-4.4.11` (2026-04-27)
+- **Latest**: `karaf-4.4.12` (2026-04-27)
 - **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 712 · **Forks**: 664 · **Open issues**: 80 · **Contributors**: 168
+- **Stars**: 713 · **Forks**: 664 · **Open issues**: 80 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 2207 · **Open PRs**: 22 · **Closed issues**: 67 · **Open issues**: 13 · **Commits**: 10131
+- **Releases**: 4 · **Merged PRs**: 2211 · **Open PRs**: 23 · **Closed issues**: 67 · **Open issues**: 13 · **Commits**: 10132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 90 | 9 | 0 | 0 | 62 |
-| last60d | 2026-07-20 | 0 | 116 | 9 | 3 | 0 | 69 |
-| 90d | 2026-06-20 | 0 | 148 | 9 | 6 | 0 | 93 |
-| last180d | 2026-03-22 | 1 | 327 | 13 | 16 | 2 | 209 |
-| 360d | 2025-09-23 | 3 | 580 | 18 | 63 | 13 | 352 |
-| last720d | 2024-09-28 | 3 | 735 | 21 | 67 | 13 | 568 |
+| 30d | 2026-08-21 | 1 | 91 | 10 | 0 | 0 | 50 |
+| last60d | 2026-07-22 | 1 | 119 | 10 | 3 | 0 | 69 |
+| 90d | 2026-06-22 | 1 | 151 | 10 | 6 | 0 | 91 |
+| last180d | 2026-03-24 | 2 | 328 | 14 | 15 | 2 | 203 |
+| 360d | 2025-09-25 | 4 | 582 | 19 | 62 | 13 | 334 |
+| last720d | 2024-09-30 | 4 | 739 | 22 | 67 | 13 | 569 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:39:25Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:54:24Z._
