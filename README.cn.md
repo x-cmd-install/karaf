@@ -4,7 +4,7 @@
 
 Apache Karaf, the enterprise modulith runtime
 
-[![x-cmd/install — karaf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/karaf.svg?lang=zh)](https://x-cmd.com/install/karaf)
+[![x-cmd/install — karaf Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/karaf.svg?lang=zh)](https://x-cmd.com/install/karaf)
 
 ## 安装
 
@@ -42,7 +42,7 @@ x install karaf
 
 ## 发布
 
-- **最新版本**: `karaf-4.4.11` (2026-04-27)
+- **最新版本**: `karaf-4.4.12` (2026-04-27)
 - **最近提交**: 2026-09-22
 
 ## 流行度
@@ -51,18 +51,18 @@ x install karaf
 
 ## 累计统计
 
-- **发布数**: 3 · **已合并 PR**: 2214 · **开放 PR**: 29 · **已关闭 issue**: 67 · **开放 issue**: 14 · **提交数**: 10135
+- **发布数**: 4 · **已合并 PR**: 2219 · **开放 PR**: 25 · **已关闭 issue**: 67 · **开放 issue**: 14 · **提交数**: 10137
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 85 | 14 | 0 | 1 | 53 |
-| last60d | 2026-07-24 | 0 | 120 | 16 | 3 | 1 | 72 |
-| 90d | 2026-06-24 | 0 | 154 | 16 | 5 | 1 | 94 |
-| last180d | 2026-03-26 | 1 | 329 | 20 | 15 | 3 | 206 |
-| 360d | 2025-09-27 | 3 | 585 | 25 | 62 | 14 | 337 |
-| last720d | 2024-10-02 | 3 | 735 | 28 | 67 | 14 | 563 |
+| 30d | 2026-08-24 | 1 | 87 | 10 | 0 | 1 | 55 |
+| last60d | 2026-07-25 | 1 | 125 | 12 | 3 | 1 | 74 |
+| 90d | 2026-06-25 | 1 | 158 | 12 | 5 | 1 | 96 |
+| last180d | 2026-03-27 | 2 | 331 | 16 | 15 | 2 | 208 |
+| 360d | 2025-09-28 | 4 | 590 | 21 | 62 | 14 | 339 |
+| last720d | 2024-10-03 | 4 | 739 | 24 | 67 | 14 | 558 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ karaf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:51:32Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:56:20Z._
