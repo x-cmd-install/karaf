@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `karaf-4.4.12` (2026-04-27)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2225 · **Open PRs**: 23 · **Closed issues**: 67 · **Open issues**: 14 · **Commits**: 10141
+- **Releases**: 4 · **Merged PRs**: 2226 · **Open PRs**: 26 · **Closed issues**: 67 · **Open issues**: 14 · **Commits**: 10142
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 87 | 7 | 0 | 1 | 59 |
-| last60d | 2026-07-27 | 1 | 126 | 10 | 3 | 1 | 78 |
-| 90d | 2026-06-27 | 1 | 162 | 10 | 5 | 1 | 100 |
-| last180d | 2026-03-29 | 2 | 334 | 14 | 15 | 2 | 212 |
-| 360d | 2025-09-30 | 4 | 578 | 19 | 61 | 14 | 343 |
-| last720d | 2024-10-05 | 4 | 745 | 22 | 67 | 14 | 560 |
+| 30d | 2026-08-27 | 1 | 85 | 10 | 0 | 1 | 60 |
+| last60d | 2026-07-28 | 1 | 127 | 13 | 2 | 1 | 79 |
+| 90d | 2026-06-28 | 1 | 163 | 13 | 5 | 1 | 101 |
+| last180d | 2026-03-30 | 2 | 331 | 17 | 14 | 2 | 213 |
+| 360d | 2025-10-01 | 4 | 579 | 22 | 61 | 13 | 344 |
+| last720d | 2024-10-06 | 4 | 746 | 25 | 67 | 14 | 561 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:51:52Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:02:08Z._
