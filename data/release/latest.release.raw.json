@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2379744,
       "digest": "sha256:67747ad01c66614e1fd6746685ad0bf0ea59985b0827edadd74e06d7aaca72dc",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-22T12:19:37Z",
       "updated_at": "2026-09-22T12:19:39Z",
       "browser_download_url": "https://github.com/apache/karaf/releases/download/karaf-4.4.12/apache-karaf-4.4.12-src.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 35765556,
       "digest": "sha256:db2cbe86ecbf756b7b841c7f4fdb1c021d0dd9ba3667f33a5e491e22f261c8a0",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-22T12:19:41Z",
       "updated_at": "2026-09-22T12:19:45Z",
       "browser_download_url": "https://github.com/apache/karaf/releases/download/karaf-4.4.12/apache-karaf-4.4.12.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 36654731,
       "digest": "sha256:562479d02caccc22963a50340874f87692b745d654d6d7394e2af7912d17e2b7",
-      "download_count": 23,
+      "download_count": 27,
       "created_at": "2026-09-22T12:19:46Z",
       "updated_at": "2026-09-22T12:19:48Z",
       "browser_download_url": "https://github.com/apache/karaf/releases/download/karaf-4.4.12/apache-karaf-4.4.12.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 83861996,
       "digest": "sha256:a10839a19d903b1802e7e5f8026879f7ba9bac75555134647b868a5448578fbb",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-22T12:19:55Z",
       "updated_at": "2026-09-22T12:20:00Z",
       "browser_download_url": "https://github.com/apache/karaf/releases/download/karaf-4.4.12/apache-karaf-integration-4.4.12.zip"
