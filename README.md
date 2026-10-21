@@ -26,13 +26,13 @@ Total: **175,973** lines of code across **2142** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.9 / 10**
+Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2284 · **Open PRs**: 32 · **Closed issues**: 70 · **Open issues**: 16 · **Commits**: 10180
+- **Releases**: 4 · **Merged PRs**: 2284 · **Open PRs**: 36 · **Closed issues**: 70 · **Open issues**: 16 · **Commits**: 10180
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 67 | 12 | 2 | 3 | 44 |
-| last60d | 2026-08-21 | 1 | 163 | 19 | 3 | 3 | 104 |
-| 90d | 2026-07-22 | 1 | 191 | 19 | 6 | 3 | 122 |
-| last180d | 2026-04-23 | 2 | 334 | 21 | 16 | 3 | 210 |
-| 360d | 2025-10-25 | 4 | 609 | 28 | 60 | 15 | 368 |
-| last720d | 2024-10-30 | 4 | 797 | 31 | 70 | 16 | 584 |
+| 30d | 2026-09-21 | 1 | 61 | 16 | 2 | 3 | 44 |
+| last60d | 2026-08-22 | 1 | 163 | 23 | 3 | 3 | 104 |
+| 90d | 2026-07-23 | 1 | 191 | 23 | 6 | 3 | 122 |
+| last180d | 2026-04-24 | 2 | 330 | 25 | 14 | 3 | 210 |
+| 360d | 2025-10-26 | 4 | 609 | 32 | 60 | 15 | 368 |
+| last720d | 2024-10-31 | 4 | 797 | 35 | 70 | 16 | 584 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:43:07Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:43:19Z._

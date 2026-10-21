@@ -26,13 +26,13 @@ x install karaf
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.9 / 10**
+总评分: **6.7 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -52,18 +52,18 @@ x install karaf
 
 ## 累计统计
 
-- **发布数**: 4 · **已合并 PR**: 2284 · **开放 PR**: 32 · **已关闭 issue**: 70 · **开放 issue**: 16 · **提交数**: 10180
+- **发布数**: 4 · **已合并 PR**: 2284 · **开放 PR**: 36 · **已关闭 issue**: 70 · **开放 issue**: 16 · **提交数**: 10180
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 67 | 12 | 2 | 3 | 44 |
-| last60d | 2026-08-21 | 1 | 163 | 19 | 3 | 3 | 104 |
-| 90d | 2026-07-22 | 1 | 191 | 19 | 6 | 3 | 122 |
-| last180d | 2026-04-23 | 2 | 334 | 21 | 16 | 3 | 210 |
-| 360d | 2025-10-25 | 4 | 609 | 28 | 60 | 15 | 368 |
-| last720d | 2024-10-30 | 4 | 797 | 31 | 70 | 16 | 584 |
+| 30d | 2026-09-21 | 1 | 61 | 16 | 2 | 3 | 44 |
+| last60d | 2026-08-22 | 1 | 163 | 23 | 3 | 3 | 104 |
+| 90d | 2026-07-23 | 1 | 191 | 23 | 6 | 3 | 122 |
+| last180d | 2026-04-24 | 2 | 330 | 25 | 14 | 3 | 210 |
+| 360d | 2025-10-26 | 4 | 609 | 32 | 60 | 15 | 368 |
+| last720d | 2024-10-31 | 4 | 797 | 35 | 70 | 16 | 584 |
 
 ## Release 资产
 
@@ -103,4 +103,4 @@ karaf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T04:43:07Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:43:20Z._
