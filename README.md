@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 720 · **Forks**: 668 · **Open issues**: 87 · **Contributors**: 170
+- **Stars**: 720 · **Forks**: 669 · **Open issues**: 87 · **Contributors**: 170
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2284 · **Open PRs**: 39 · **Closed issues**: 70 · **Open issues**: 17 · **Commits**: 10180
+- **Releases**: 4 · **Merged PRs**: 2284 · **Open PRs**: 43 · **Closed issues**: 70 · **Open issues**: 17 · **Commits**: 10180
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 60 | 19 | 2 | 4 | 44 |
-| last60d | 2026-08-23 | 1 | 154 | 24 | 3 | 4 | 104 |
-| 90d | 2026-07-24 | 1 | 189 | 26 | 6 | 4 | 122 |
-| last180d | 2026-04-25 | 2 | 329 | 28 | 14 | 4 | 210 |
-| 360d | 2025-10-27 | 4 | 608 | 34 | 60 | 16 | 368 |
-| last720d | 2024-11-01 | 4 | 797 | 38 | 70 | 17 | 584 |
+| 30d | 2026-09-23 | 0 | 58 | 23 | 2 | 4 | 44 |
+| last60d | 2026-08-24 | 1 | 151 | 28 | 3 | 4 | 104 |
+| 90d | 2026-07-25 | 1 | 189 | 30 | 6 | 4 | 122 |
+| last180d | 2026-04-26 | 2 | 328 | 32 | 14 | 4 | 210 |
+| 360d | 2025-10-28 | 4 | 608 | 38 | 60 | 16 | 368 |
+| last720d | 2024-11-02 | 4 | 797 | 42 | 70 | 17 | 584 |
 
 ## Release assets
 
@@ -94,6 +94,10 @@ Lowest-scoring checks:
 | [apache-karaf-minimal-4.4.12.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.12/apache-karaf-minimal-4.4.12.zip.asc) | 870 B | `other` |
 | [apache-karaf-minimal-4.4.12.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.12/apache-karaf-minimal-4.4.12.zip.sha512) | 162 B | `other` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/karaf). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `karaf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:42:02Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:40:43Z._
