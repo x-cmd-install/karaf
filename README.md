@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 720 · **Forks**: 669 · **Open issues**: 87 · **Contributors**: 170
+- **Stars**: 721 · **Forks**: 669 · **Open issues**: 87 · **Contributors**: 170
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 58 | 23 | 2 | 4 | 44 |
-| last60d | 2026-08-24 | 1 | 151 | 28 | 3 | 4 | 104 |
-| 90d | 2026-07-25 | 1 | 189 | 30 | 6 | 4 | 122 |
-| last180d | 2026-04-26 | 2 | 328 | 32 | 14 | 4 | 210 |
-| 360d | 2025-10-28 | 4 | 608 | 38 | 60 | 16 | 368 |
-| last720d | 2024-11-02 | 4 | 797 | 42 | 70 | 17 | 584 |
+| 30d | 2026-09-24 | 0 | 57 | 23 | 2 | 4 | 44 |
+| last60d | 2026-08-25 | 1 | 149 | 27 | 3 | 4 | 104 |
+| 90d | 2026-07-26 | 1 | 189 | 30 | 6 | 4 | 122 |
+| last180d | 2026-04-27 | 2 | 325 | 32 | 14 | 4 | 210 |
+| 360d | 2025-10-29 | 4 | 608 | 38 | 60 | 16 | 368 |
+| last720d | 2024-11-03 | 4 | 797 | 42 | 70 | 17 | 584 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:40:43Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:31:04Z._
