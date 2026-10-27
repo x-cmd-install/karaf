@@ -30,8 +30,8 @@ Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `karaf-4.4.12` (2026-09-22)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 - **Assets in release**: 24
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2289 · **Open PRs**: 36 · **Closed issues**: 70 · **Open issues**: 17 · **Commits**: 10181
+- **Releases**: 4 · **Merged PRs**: 2294 · **Open PRs**: 32 · **Closed issues**: 70 · **Open issues**: 17 · **Commits**: 10184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 57 | 18 | 2 | 4 | 32 |
-| last60d | 2026-08-27 | 1 | 148 | 22 | 3 | 4 | 101 |
-| 90d | 2026-07-28 | 1 | 190 | 23 | 5 | 4 | 121 |
-| last180d | 2026-04-29 | 1 | 313 | 25 | 14 | 4 | 194 |
-| 360d | 2025-10-31 | 4 | 611 | 31 | 60 | 16 | 368 |
-| last720d | 2024-11-05 | 4 | 802 | 35 | 70 | 17 | 585 |
+| 30d | 2026-09-27 | 0 | 62 | 14 | 2 | 4 | 35 |
+| last60d | 2026-08-28 | 1 | 153 | 18 | 3 | 4 | 104 |
+| 90d | 2026-07-29 | 1 | 195 | 19 | 5 | 4 | 124 |
+| last180d | 2026-04-30 | 1 | 313 | 20 | 14 | 4 | 197 |
+| 360d | 2025-11-01 | 4 | 616 | 27 | 60 | 16 | 371 |
+| last720d | 2024-11-06 | 4 | 807 | 31 | 70 | 17 | 588 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:40:17Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:00:16Z._
