@@ -14,13 +14,13 @@ x install karaf
 
 ## Code insight
 
-Total: **175,973** lines of code across **2142** files in the top 5 languages.
+Total: **175,984** lines of code across **2142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 129,535 | 41,883 | 24,099 | 1601 |
-| Xml | 32,079 | 8,916 | 3,294 | 486 |
-| AsciiDoc | 10,856 | 602 | 3,740 | 46 |
+| Xml | 32,087 | 8,916 | 3,294 | 486 |
+| AsciiDoc | 10,859 | 602 | 3,741 | 46 |
 | JavaScript | 882 | 113 | 103 | 6 |
 | Sass | 640 | 103 | 130 | 3 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `karaf-4.4.12` (2026-09-22)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 721 · **Forks**: 669 · **Open issues**: 87 · **Contributors**: 172
+- **Stars**: 721 · **Forks**: 669 · **Open issues**: 88 · **Contributors**: 173
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2308 · **Open PRs**: 28 · **Closed issues**: 72 · **Open issues**: 15 · **Commits**: 10193
+- **Releases**: 4 · **Merged PRs**: 2310 · **Open PRs**: 28 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10195
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 62 | 9 | 4 | 0 | 44 |
-| last60d | 2026-08-31 | 1 | 164 | 14 | 5 | 2 | 113 |
-| 90d | 2026-08-01 | 1 | 206 | 15 | 7 | 2 | 133 |
-| last180d | 2026-05-03 | 1 | 321 | 16 | 16 | 2 | 206 |
-| 360d | 2025-11-04 | 4 | 630 | 23 | 61 | 14 | 380 |
-| last720d | 2024-11-09 | 4 | 818 | 27 | 72 | 15 | 594 |
+| 30d | 2026-10-01 | 0 | 59 | 9 | 3 | 1 | 47 |
+| last60d | 2026-09-01 | 1 | 166 | 14 | 6 | 2 | 116 |
+| 90d | 2026-08-02 | 1 | 208 | 15 | 8 | 2 | 136 |
+| last180d | 2026-05-04 | 1 | 323 | 16 | 17 | 2 | 209 |
+| 360d | 2025-11-05 | 4 | 632 | 23 | 62 | 13 | 383 |
+| last720d | 2024-11-10 | 4 | 820 | 27 | 73 | 15 | 596 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:49:40Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:36:59Z._
