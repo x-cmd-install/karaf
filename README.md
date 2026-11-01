@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 59 | 9 | 3 | 1 | 47 |
-| last60d | 2026-09-01 | 1 | 166 | 14 | 6 | 2 | 116 |
-| 90d | 2026-08-02 | 1 | 208 | 15 | 8 | 2 | 136 |
-| last180d | 2026-05-04 | 1 | 323 | 16 | 17 | 2 | 209 |
-| 360d | 2025-11-05 | 4 | 632 | 23 | 62 | 13 | 383 |
-| last720d | 2024-11-10 | 4 | 820 | 27 | 73 | 15 | 596 |
+| 30d | 2026-10-02 | 0 | 55 | 9 | 3 | 1 | 33 |
+| last60d | 2026-09-02 | 1 | 163 | 14 | 6 | 2 | 102 |
+| 90d | 2026-08-03 | 1 | 207 | 15 | 8 | 2 | 136 |
+| last180d | 2026-05-05 | 1 | 317 | 16 | 16 | 2 | 198 |
+| 360d | 2025-11-06 | 4 | 632 | 23 | 62 | 13 | 380 |
+| last720d | 2024-11-11 | 4 | 820 | 27 | 73 | 15 | 596 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:36:59Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:54:56Z._
