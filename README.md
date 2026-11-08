@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2318 · **Open PRs**: 43 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10201
+- **Releases**: 4 · **Merged PRs**: 2318 · **Open PRs**: 46 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 49 | 22 | 2 | 1 | 39 |
-| last60d | 2026-09-08 | 1 | 151 | 28 | 6 | 2 | 108 |
-| 90d | 2026-08-09 | 1 | 209 | 30 | 8 | 2 | 142 |
-| last180d | 2026-05-11 | 1 | 316 | 30 | 15 | 2 | 204 |
-| 360d | 2025-11-12 | 4 | 637 | 38 | 58 | 12 | 386 |
-| last720d | 2024-11-17 | 4 | 828 | 41 | 73 | 15 | 602 |
+| 30d | 2026-10-09 | 0 | 46 | 25 | 2 | 1 | 31 |
+| last60d | 2026-09-09 | 1 | 145 | 30 | 6 | 2 | 80 |
+| 90d | 2026-08-10 | 1 | 207 | 33 | 8 | 2 | 139 |
+| last180d | 2026-05-12 | 1 | 312 | 33 | 15 | 2 | 199 |
+| 360d | 2025-11-13 | 4 | 637 | 41 | 58 | 12 | 379 |
+| last720d | 2024-11-18 | 4 | 828 | 44 | 73 | 15 | 602 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:53:33Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:55:02Z._
