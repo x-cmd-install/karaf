@@ -26,7 +26,7 @@ Total: **175,987** lines of code across **2142** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7 / 10**
+Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2319 · **Open PRs**: 46 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10202
+- **Releases**: 4 · **Merged PRs**: 2319 · **Open PRs**: 51 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 46 | 25 | 2 | 1 | 32 |
-| last60d | 2026-09-10 | 1 | 138 | 30 | 6 | 2 | 81 |
-| 90d | 2026-08-11 | 1 | 208 | 33 | 8 | 2 | 140 |
-| last180d | 2026-05-13 | 1 | 313 | 33 | 15 | 2 | 200 |
-| 360d | 2025-11-14 | 4 | 636 | 41 | 58 | 12 | 380 |
-| last720d | 2024-11-19 | 4 | 829 | 44 | 73 | 15 | 603 |
+| 30d | 2026-10-11 | 0 | 46 | 29 | 2 | 1 | 32 |
+| last60d | 2026-09-11 | 1 | 135 | 35 | 6 | 2 | 81 |
+| 90d | 2026-08-12 | 1 | 208 | 38 | 8 | 2 | 140 |
+| last180d | 2026-05-14 | 1 | 311 | 38 | 15 | 2 | 200 |
+| 360d | 2025-11-15 | 4 | 636 | 46 | 58 | 12 | 380 |
+| last720d | 2024-11-20 | 4 | 829 | 49 | 73 | 15 | 603 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:13:35Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:11:12Z._
