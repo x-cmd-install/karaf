@@ -14,12 +14,12 @@ x install karaf
 
 ## Code insight
 
-Total: **177,240** lines of code across **2148** files in the top 5 languages.
+Total: **177,252** lines of code across **2148** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 130,310 | 42,082 | 24,236 | 1607 |
-| Xml | 32,560 | 8,916 | 3,296 | 486 |
+| Xml | 32,572 | 8,916 | 3,296 | 486 |
 | AsciiDoc | 10,864 | 602 | 3,741 | 46 |
 | JavaScript | 882 | 113 | 103 | 6 |
 | Sass | 640 | 103 | 130 | 3 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `karaf-4.4.12` (2026-09-22)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 - **Assets in release**: 24
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2359 · **Open PRs**: 28 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10225
+- **Releases**: 4 · **Merged PRs**: 2364 · **Open PRs**: 26 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 78 | 7 | 2 | 1 | 56 |
-| last60d | 2026-09-14 | 1 | 159 | 12 | 6 | 2 | 105 |
-| 90d | 2026-08-15 | 1 | 245 | 15 | 8 | 2 | 164 |
-| last180d | 2026-05-17 | 1 | 349 | 15 | 15 | 2 | 224 |
-| 360d | 2025-11-18 | 4 | 666 | 23 | 57 | 11 | 404 |
-| last720d | 2024-11-23 | 4 | 869 | 26 | 73 | 15 | 626 |
+| 30d | 2026-10-15 | 0 | 79 | 5 | 1 | 1 | 60 |
+| last60d | 2026-09-15 | 1 | 160 | 9 | 6 | 2 | 109 |
+| 90d | 2026-08-16 | 1 | 250 | 13 | 8 | 2 | 168 |
+| last180d | 2026-05-18 | 1 | 354 | 13 | 15 | 2 | 228 |
+| 360d | 2025-11-19 | 4 | 671 | 21 | 57 | 11 | 408 |
+| last720d | 2024-11-24 | 4 | 874 | 24 | 73 | 15 | 630 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:47:28Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:15:34Z._
