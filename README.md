@@ -14,12 +14,12 @@ x install karaf
 
 ## Code insight
 
-Total: **182,711** lines of code across **2197** files in the top 5 languages.
+Total: **182,730** lines of code across **2197** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 135,336 | 43,440 | 25,070 | 1653 |
-| Xml | 32,850 | 8,960 | 3,319 | 488 |
+| Java | 135,336 | 43,441 | 25,069 | 1653 |
+| Xml | 32,869 | 8,961 | 3,319 | 488 |
 | AsciiDoc | 11,019 | 615 | 3,784 | 47 |
 | JavaScript | 882 | 113 | 103 | 6 |
 | Sass | 640 | 103 | 130 | 3 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `karaf-4.4.12` (2026-09-22)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 24
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 2365 · **Open PRs**: 28 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10230
+- **Releases**: 4 · **Merged PRs**: 2378 · **Open PRs**: 27 · **Closed issues**: 73 · **Open issues**: 15 · **Commits**: 10239
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 78 | 9 | 1 | 1 | 52 |
-| last60d | 2026-09-17 | 1 | 156 | 14 | 6 | 2 | 99 |
-| 90d | 2026-08-18 | 1 | 249 | 16 | 7 | 2 | 159 |
-| last180d | 2026-05-20 | 1 | 349 | 16 | 15 | 2 | 222 |
-| 360d | 2025-11-21 | 4 | 670 | 23 | 56 | 11 | 408 |
-| last720d | 2024-11-26 | 4 | 875 | 26 | 73 | 15 | 631 |
+| 30d | 2026-10-18 | 0 | 91 | 8 | 1 | 1 | 62 |
+| last60d | 2026-09-18 | 1 | 167 | 13 | 6 | 2 | 109 |
+| 90d | 2026-08-19 | 1 | 260 | 15 | 6 | 2 | 169 |
+| last180d | 2026-05-21 | 1 | 362 | 15 | 15 | 2 | 232 |
+| 360d | 2025-11-22 | 4 | 682 | 22 | 55 | 11 | 418 |
+| last720d | 2024-11-27 | 4 | 886 | 25 | 73 | 15 | 640 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:27:35Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:48:29Z._
