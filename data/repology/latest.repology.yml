@@ -6,7 +6,7 @@
   status: newest
   summary: enterprise platform
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
 - repo: aur
   srcname: apache-karaf
   binname: apache-karaf
