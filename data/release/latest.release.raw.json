@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 36940138,
       "digest": "sha256:b0afa5b7af1388f8f5be35bb5d6a82ad8c70c699347193590f7242781c295756",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-23T17:48:14Z",
       "updated_at": "2026-11-23T17:48:16Z",
       "browser_download_url": "https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.zip"
