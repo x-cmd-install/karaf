@@ -42,57 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `karaf-4.5.0` (2026-11-18)
+- **Latest**: `karaf-4.5.0` (2026-11-22)
 - **Last commit**: 2026-11-24
-- **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 722 · **Forks**: 669 · **Open issues**: 89 · **Contributors**: 173
+- **Stars**: 722 · **Forks**: 670 · **Open issues**: 90 · **Contributors**: 173
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 2427 · **Open PRs**: 9 · **Closed issues**: 78 · **Open issues**: 11 · **Commits**: 10274
+- **Releases**: 6 · **Merged PRs**: 2427 · **Open PRs**: 11 · **Closed issues**: 78 · **Open issues**: 12 · **Commits**: 10274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 115 | 5 | 1 | 1 | 95 |
-| last60d | 2026-09-27 | 2 | 191 | 8 | 7 | 1 | 142 |
-| 90d | 2026-08-28 | 3 | 284 | 8 | 8 | 1 | 204 |
-| last180d | 2026-05-30 | 3 | 391 | 8 | 17 | 1 | 264 |
-| 360d | 2025-12-01 | 6 | 726 | 9 | 59 | 8 | 448 |
-| last720d | 2024-12-06 | 6 | 935 | 9 | 78 | 11 | 673 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [apache-karaf-4.4.13-src.tar.gz](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.tar.gz) | 2.3 MiB | `native/unknown` |
-| [apache-karaf-4.4.13-src.tar.gz.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.tar.gz.asc) | 870 B | `other` |
-| [apache-karaf-4.4.13-src.tar.gz.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.tar.gz.sha512) | 161 B | `other` |
-| [apache-karaf-4.4.13-src.zip](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.zip) | 5.5 MiB | `other` |
-| [apache-karaf-4.4.13-src.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.zip.asc) | 870 B | `other` |
-| [apache-karaf-4.4.13-src.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.zip.sha512) | 158 B | `other` |
-| [apache-karaf-4.4.13.tar.gz](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.tar.gz) | 34.4 MiB | `native/unknown` |
-| [apache-karaf-4.4.13.tar.gz.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.tar.gz.asc) | 870 B | `other` |
-| [apache-karaf-4.4.13.tar.gz.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.tar.gz.sha512) | 157 B | `other` |
-| [apache-karaf-4.4.13.zip](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.zip) | 35.2 MiB | `other` |
-| [apache-karaf-4.4.13.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.zip.asc) | 870 B | `other` |
-| [apache-karaf-4.4.13.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.zip.sha512) | 154 B | `other` |
-| [apache-karaf-integration-4.4.13.tar.gz](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.tar.gz) | 79.2 MiB | `native/unknown` |
-| [apache-karaf-integration-4.4.13.tar.gz.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.tar.gz.asc) | 870 B | `other` |
-| [apache-karaf-integration-4.4.13.tar.gz.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.tar.gz.sha512) | 169 B | `other` |
-| [apache-karaf-integration-4.4.13.zip](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.zip) | 80.3 MiB | `other` |
-| [apache-karaf-integration-4.4.13.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.zip.asc) | 870 B | `other` |
-| [apache-karaf-integration-4.4.13.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.zip.sha512) | 166 B | `other` |
-| [apache-karaf-minimal-4.4.13.tar.gz](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.tar.gz) | 26.4 MiB | `native/unknown` |
-| [apache-karaf-minimal-4.4.13.tar.gz.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.tar.gz.asc) | 870 B | `other` |
-| [apache-karaf-minimal-4.4.13.tar.gz.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.tar.gz.sha512) | 165 B | `other` |
-| [apache-karaf-minimal-4.4.13.zip](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.zip) | 26.5 MiB | `other` |
-| [apache-karaf-minimal-4.4.13.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.zip.asc) | 870 B | `other` |
-| [apache-karaf-minimal-4.4.13.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.zip.sha512) | 162 B | `other` |
+| 30d | 2026-10-28 | 2 | 113 | 7 | 1 | 2 | 95 |
+| last60d | 2026-09-28 | 2 | 186 | 10 | 7 | 2 | 142 |
+| 90d | 2026-08-29 | 3 | 283 | 10 | 8 | 2 | 204 |
+| last180d | 2026-05-31 | 3 | 391 | 10 | 17 | 2 | 264 |
+| 360d | 2025-12-02 | 6 | 721 | 11 | 59 | 9 | 448 |
+| last720d | 2024-12-07 | 6 | 935 | 11 | 78 | 12 | 673 |
 
 ## Improve this data
 
@@ -103,4 +73,4 @@ Install metadata for karaf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:07:23Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:36:00Z._

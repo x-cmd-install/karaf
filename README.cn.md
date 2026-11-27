@@ -42,57 +42,27 @@ x install karaf
 
 ## 发布
 
-- **最新版本**: `karaf-4.5.0` (2026-11-18)
+- **最新版本**: `karaf-4.5.0` (2026-11-22)
 - **最近提交**: 2026-11-24
-- **Release 含资产**: 24 个
 
 ## 流行度
 
-- **Star**: 722 · **Fork**: 669 · **开放 issue**: 89 · **贡献者**: 173
+- **Star**: 722 · **Fork**: 670 · **开放 issue**: 90 · **贡献者**: 173
 
 ## 累计统计
 
-- **发布数**: 6 · **已合并 PR**: 2427 · **开放 PR**: 9 · **已关闭 issue**: 78 · **开放 issue**: 11 · **提交数**: 10274
+- **发布数**: 6 · **已合并 PR**: 2427 · **开放 PR**: 11 · **已关闭 issue**: 78 · **开放 issue**: 12 · **提交数**: 10274
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 115 | 5 | 1 | 1 | 95 |
-| last60d | 2026-09-27 | 2 | 191 | 8 | 7 | 1 | 142 |
-| 90d | 2026-08-28 | 3 | 284 | 8 | 8 | 1 | 204 |
-| last180d | 2026-05-30 | 3 | 391 | 8 | 17 | 1 | 264 |
-| 360d | 2025-12-01 | 6 | 726 | 9 | 59 | 8 | 448 |
-| last720d | 2024-12-06 | 6 | 935 | 9 | 78 | 11 | 673 |
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [apache-karaf-4.4.13-src.tar.gz](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.tar.gz) | 2.3 MiB | `native/unknown` |
-| [apache-karaf-4.4.13-src.tar.gz.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.tar.gz.asc) | 870 B | `other` |
-| [apache-karaf-4.4.13-src.tar.gz.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.tar.gz.sha512) | 161 B | `other` |
-| [apache-karaf-4.4.13-src.zip](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.zip) | 5.5 MiB | `other` |
-| [apache-karaf-4.4.13-src.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.zip.asc) | 870 B | `other` |
-| [apache-karaf-4.4.13-src.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13-src.zip.sha512) | 158 B | `other` |
-| [apache-karaf-4.4.13.tar.gz](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.tar.gz) | 34.4 MiB | `native/unknown` |
-| [apache-karaf-4.4.13.tar.gz.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.tar.gz.asc) | 870 B | `other` |
-| [apache-karaf-4.4.13.tar.gz.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.tar.gz.sha512) | 157 B | `other` |
-| [apache-karaf-4.4.13.zip](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.zip) | 35.2 MiB | `other` |
-| [apache-karaf-4.4.13.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.zip.asc) | 870 B | `other` |
-| [apache-karaf-4.4.13.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-4.4.13.zip.sha512) | 154 B | `other` |
-| [apache-karaf-integration-4.4.13.tar.gz](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.tar.gz) | 79.2 MiB | `native/unknown` |
-| [apache-karaf-integration-4.4.13.tar.gz.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.tar.gz.asc) | 870 B | `other` |
-| [apache-karaf-integration-4.4.13.tar.gz.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.tar.gz.sha512) | 169 B | `other` |
-| [apache-karaf-integration-4.4.13.zip](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.zip) | 80.3 MiB | `other` |
-| [apache-karaf-integration-4.4.13.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.zip.asc) | 870 B | `other` |
-| [apache-karaf-integration-4.4.13.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-integration-4.4.13.zip.sha512) | 166 B | `other` |
-| [apache-karaf-minimal-4.4.13.tar.gz](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.tar.gz) | 26.4 MiB | `native/unknown` |
-| [apache-karaf-minimal-4.4.13.tar.gz.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.tar.gz.asc) | 870 B | `other` |
-| [apache-karaf-minimal-4.4.13.tar.gz.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.tar.gz.sha512) | 165 B | `other` |
-| [apache-karaf-minimal-4.4.13.zip](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.zip) | 26.5 MiB | `other` |
-| [apache-karaf-minimal-4.4.13.zip.asc](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.zip.asc) | 870 B | `other` |
-| [apache-karaf-minimal-4.4.13.zip.sha512](https://github.com/apache/karaf/releases/download/karaf-4.4.13/apache-karaf-minimal-4.4.13.zip.sha512) | 162 B | `other` |
+| 30d | 2026-10-28 | 2 | 113 | 7 | 1 | 2 | 95 |
+| last60d | 2026-09-28 | 2 | 186 | 10 | 7 | 2 | 142 |
+| 90d | 2026-08-29 | 3 | 283 | 10 | 8 | 2 | 204 |
+| last180d | 2026-05-31 | 3 | 391 | 10 | 17 | 2 | 264 |
+| 360d | 2025-12-02 | 6 | 721 | 11 | 59 | 9 | 448 |
+| last720d | 2024-12-07 | 6 | 935 | 11 | 78 | 12 | 673 |
 
 ## 改进这些数据
 
@@ -103,4 +73,4 @@ karaf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:07:24Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T08:36:01Z._
