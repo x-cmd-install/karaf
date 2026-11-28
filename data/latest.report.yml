@@ -7,7 +7,7 @@ about:
   latestVersion: "karaf-4.5.0"
   latestRelease: "karaf-4.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:35:28Z
+  collectedAt: 2026-11-28T07:50:30Z
 timeline:
   created: 2010-08-12
   lastCommit: 2026-11-24
@@ -17,11 +17,11 @@ timeline:
 popularity:
   star: 722
   watcher: 69
-  fork: 670
+  fork: 671
   release: 6
   contributor: 173
-  pullRequest: 3064
-  issue: 90
+  pullRequest: 3065
+  issue: 91
 language:
   Java: 8197083
   Shell: 99524
@@ -37,63 +37,63 @@ language:
 totalBytes: 8460252
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 2
-    mergedPR: 113
-    openPR: 7
+    mergedPR: 109
+    openPR: 8
     closedIssue: 1
-    openIssue: 2
+    openIssue: 3
     commit: 95
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
-    mergedPR: 186
-    openPR: 10
+    mergedPR: 180
+    openPR: 11
     closedIssue: 7
-    openIssue: 2
+    openIssue: 3
     commit: 142
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
     mergedPR: 283
-    openPR: 10
+    openPR: 11
     closedIssue: 8
-    openIssue: 2
+    openIssue: 3
     commit: 204
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 3
     mergedPR: 391
-    openPR: 10
+    openPR: 11
     closedIssue: 17
-    openIssue: 2
+    openIssue: 3
     commit: 264
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 6
-    mergedPR: 721
-    openPR: 11
+    mergedPR: 719
+    openPR: 12
     closedIssue: 59
-    openIssue: 9
+    openIssue: 10
     commit: 448
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 6
     mergedPR: 935
-    openPR: 11
+    openPR: 12
     closedIssue: 78
-    openIssue: 12
+    openIssue: 13
     commit: 673
 total:
   release: 6
   mergedPR: 2427
-  openPR: 11
+  openPR: 12
   closedIssue: 78
-  openIssue: 12
+  openIssue: 13
   commit: 10274
 ---
 path: /home/runner/.x-repo/github.com/apache/karaf
-collectedAt: 2026-11-27T08:35:38Z
+collectedAt: 2026-11-28T07:50:41Z
 loc:
   Java:
     code: 143699
